@@ -1,0 +1,21 @@
+{
+    "name": "aristeidis-alexandridis-extension-pack",
+    "displayName": "Aristeidis Alexandridis Extension Pack",
+    "description": "Simple nice looking thame for fast development.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "teabyii.ayu",
+        "leodevbro.blockman",
+        "oderwat.indent-rainbow",
+        "aaron-bond.better-comments",
+        "aaronpowell.vscode-profile-switcher",
+        "emmanuelbeziat.vscode-great-icons",
+        "TabNine.tabnine-vscode"
+    ]
+}
