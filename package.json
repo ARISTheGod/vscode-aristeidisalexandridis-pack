@@ -1,8 +1,9 @@
 {
     "name": "aristeidis-alexandridis-extension-pack",
     "displayName": "Aristeidis Alexandridis Extension Pack",
-    "description": "Simple nice looking thame for fast development.",
+    "description": "Simple nice looking theme for fast development.",
     "icon": "icon.png",
+    "publisher": "AristeidisAlexandridis",
     "version": "0.0.1",
     "repository": {
         "type": "git",
